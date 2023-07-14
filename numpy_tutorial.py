@@ -1,6 +1,5 @@
-import numpy as np
+from tutorials import run
 
 
-# Creating a basic array
-a = np.array([1,2,3,4,5,6])
-print(a)
+if __name__ == '__main__':
+    run()
